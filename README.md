@@ -10,7 +10,7 @@
 
 1. #### clone the repo using this command
    ```bash
-   git clone https://github.com/ashraf-kabir/mern-ecommerce.git
+   git clone https://github.com/prasannaa-mb/mern-ecommerce.git
    ```
 2. #### install npm packages
    1. install backend packages
@@ -90,8 +90,4 @@
     8. admin can view ordered products
     9. admin can change the status of a product (processing, shipped, delivered, etc.)
     10. FRONTEND URL: http://localhost:5173/
-    11. Project demo will be added soon...
-
-
-1. <b>Deployed on: (No longer available due to heroku free dyno plan has deprecated)</br> https://ecommerce-ak.herokuapp.com/
-2. raise a star to support me
+     
